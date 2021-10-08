@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/72006226?v=4" border-radius="50" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/72006226?v=4" rounded />
    <h3 align="center">¡Hey 👋! Soy Camilo Orozco 👨🏻‍💻</h3>
 </p>
 
